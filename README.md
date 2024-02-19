@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
 <h3 align="center">A 🥔 Hunt for Exciting Programming Adventures</h3>
 
+[![wakatime](https://wakatime.com/badge/user/018d821c-9190-497d-be4c-868bdc034828.svg)](https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828)
+
 - 🔭 I’m currently working on a private project in [GitLab](https://gitlab.com/lst97)
 
 - 🌱 Learning **Flutter, Dart**
