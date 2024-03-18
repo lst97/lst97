@@ -28,6 +28,12 @@
 <h3 align="center">📊 Stats</h3>
 <div align="center">
   <a href="#">
+    <img height=300 align="center" src="https://streak-stats.demolab.com?user=lst97" />
+  </a>
+</div>
+<div align="center">
+
+  <a href="#">
     <img height=200 align="center" src="https://github-readme-stats-lst97.vercel.app/api?username=lst97" />
   </a>
   <a href="#">
