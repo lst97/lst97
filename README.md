@@ -27,13 +27,13 @@
 ---
 <h3 align="center">📊 Stats</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="#">
     <img height=200 align="center" src="https://github-readme-stats-lst97.vercel.app/api?username=lst97" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="#">
     <img height=200 align="center" src="https://github-readme-stats-lst97.vercel.app/api/top-langs?username=lst97&layout=compact&langs_count=10&card_width=320" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="#">
     <img height=370 align="center" src="https://github-readme-stats-lst97.vercel.app/api/wakatime?username=lst97&layout=compact&card_width=640" />
   </a>
 </div>
