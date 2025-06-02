@@ -5,11 +5,19 @@
   <a href="https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828">
     <img height="25" src="https://wakatime.com/badge/user/018d821c-9190-497d-be4c-868bdc034828.svg" alt="WakaTime Stats"/>
   </a>
-  <a href="#"> <img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <a href="https://www.cursor.com/"> <img height="25" src="https://img.shields.io/badge/Cursor-Editor-009EFF" alt="Cursor"/>
   </a>
-  <a href="#"> <img height="25" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
+  <a href="https://support.apple.com/en-us/111883"> <img height="25" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
   </a>
-  <a href="#"> <img height="25" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <a href="https://chatgpt.com/"> <img height="25" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://www.cursor.com/"> <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"/>
+  </a>
+  <a href="https://gemini.google.com/"> <img height="25" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Gemini"/>
+  </a>
+  <a href="https://phare.io/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availibity"/>
+  </a>
+  <a href="https://vercel.com/"> <img height="25" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
 </p>
 
@@ -107,4 +115,3 @@
 ---
 
 </p>
--->
