@@ -15,7 +15,7 @@
   </a>
   <a href="https://gemini.google.com/"> <img height="25" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Gemini"/>
   </a>
-  <a href="https://phare.io/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availibity"/>
+  <a href="https://status.lst97.dev/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availibity"/>
   </a>
   <a href="https://vercel.com/"> <img height="25" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
