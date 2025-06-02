@@ -11,7 +11,7 @@
   </a>
   <a href="https://chatgpt.com/"> <img height="25" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   </a>
-  <a href="https://www.cursor.com/"> <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"/>
+  <a href="https://claude.ai/"> <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"/>
   </a>
   <a href="https://gemini.google.com/"> <img height="25" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Gemini"/>
   </a>
