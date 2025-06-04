@@ -5,7 +5,7 @@
   <a href="https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828">
     <img height="25" src="https://wakatime.com/badge/user/018d821c-9190-497d-be4c-868bdc034828.svg" alt="WakaTime Stats"/>
   </a>
-  <a href="https://www.cursor.com/"> <img height="25" src="https://img.shields.io/badge/Cursor-Editor-009EFF" alt="Cursor"/>
+  <a href="https://www.cursor.com/"> <img height="25" src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white" alt="Cursor"/>
   </a>
   <a href="https://support.apple.com/en-us/111883"> <img height="25" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
   </a>
