@@ -94,6 +94,8 @@
 ---
 
 ## 📊 My GitHub Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <a href="#"> <img height="300" align="center" src="https://streak-stats.demolab.com?user=lst97" alt="GitHub Streak Stats"/>
