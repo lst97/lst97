@@ -95,13 +95,13 @@
 
 ## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 331.9 kB Used in GitHub's Storage 
+> 📦 335.8 kB Used in GitHub's Storage 
  > 
 > 🏆 243 Contributions in the Year 2025
  > 
@@ -111,50 +111,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-🌆 Daytime                998 commits         █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌃 Evening                1285 commits        ████████████░░░░░░░░░░░░░   47.52 % 
-🌙 Night                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Wednesday                369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Friday                   294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Saturday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Sunday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Melbourne
-
-💬 Programming Languages: 
-TypeScript               12 hrs 25 mins      ████████████░░░░░░░░░░░░░   48.63 % 
-Markdown                 6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-JSON                     4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-
-🔥 Editors: 
-Cursor                   14 hrs 44 mins      ██████████████░░░░░░░░░░░   57.71 % 
-VS Code                  10 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.29 % 
-
-🐱‍💻 Projects: 
-canton-lyr               25 hrs 32 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      25 hrs 32 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -172,7 +128,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 19:09:59 UTC
+ Last Updated on 16/09/2025 19:11:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
