@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nelson 👋</h1>
-<h3 align="center">A Developer Exploring New Technologies and Building Cool Stuff!</h3>
+<h3 align="center">Full Stack Developer | Building Open Source Tools & Modern Web Applications</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828">
@@ -15,7 +15,7 @@
   </a>
   <a href="https://gemini.google.com/"> <img height="25" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Gemini"/>
   </a>
-  <a href="https://status.lst97.dev/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availibity"/>
+  <a href="https://status.lst97.dev/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availability"/>
   </a>
   <a href="https://vercel.com/"> <img height="25" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
@@ -25,70 +25,112 @@
 
 ## 🚀 About Me
 
--   🔭 I’m currently focused on **enhancing my personal website [lst97.dev](https://www.lst97.dev)** with new features and a refreshed design.
--   🌱 I'm diving deep into **Next.js, React, and Payload CMS** to build modern, scalable web applications. Always excited to learn more!
--   👯 I’m looking to collaborate on **open-source projects** or interesting **web development challenges**.
--   🤔 Ask me about **my journey into web technologies.**
--   📫 How to reach me: **laisiotou1997@gmail.com**
--   ⚡ Fun fact: I'm a 🥔 on the hunt for exciting programming adventures! (Kept your fun tagline!)
+- 🔭 I'm a **Full Stack Developer** based in Melbourne, Australia 🇦🇺🇭🇰
+- 🌱 Currently focusing on **TanStack Start, React, and TypeScript** for building modern full-stack applications
+- 👯 Open source enthusiast building tools for the developer community
+- 🤔 Ask me about: **Full-stack development, System architecture, or my programming journey**
+- 📫 Reach me: **<laisiotou1997@gmail.com>** | **[lst97.dev](https://www.lst97.dev)**
+- 💼 Open to interesting collaborations and **open-source projects**
 
 ---
 
-## 🧰 Languages and Tools
+## 🌟 Featured Projects
 
+### 🛠️ Developer Tools
 
-<h2>Frontend Development</h2>
+**[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)**
+> Collection of specialized AI subagents for Claude Code, empowering full-stack development workflows. Features automated testing, code review, documentation generation, and deployment automation.
+
+**[github-readme-stats](https://github.com/lst97/github-readme-stats)** (fork)
+> Dynamically generated stats for GitHub readmes with custom deployment.
+
+### 🏸 Community Projects
+
+**[smartplay-hk-oss](https://github.com/lst97/smartplay-hk-oss)**
+> 更快、更簡潔的開源替代方案，用於查詢香港康文署設施可用性。Real-time LCSD facility availability tracking with automated crawling and multi-language support.
+
+**[CantoCap](https://github.com/lst97/CantoCap)**
+> Tool for generating accurate Cantonese subtitles from audio/video files using OpenAI Whisper with LLM enhancements.
+
+**[CantoLyr](https://github.com/lst97/CantoLyr)**
+> Cantonese lyrics processing and conversion utilities.
+
+**[bin-time-crawler](https://github.com/lst97/bin-time-crawler)**
+> Bin collection schedule crawler for almost all states and councils in Australia 🇦🇺.
+
+**[info-hawker-server](https://github.com/lst97/info-hawker-server)**
+> Provide API that gathers 🇦🇺 Australia open-data, unifying across different states and councils.
+
+### 🎨 Personal Projects
+
+**[lst97-dev](https://github.com/lst97/lst97-dev)**
+> My personal website and portfolio built with modern web technologies.
+
+**[PixelCast](https://github.com/lst97/PixelCast)**
+> A modern web-based screen sharing application built with Next.js and SRS.
+
+**[typo-sync-server](https://github.com/lst97/typo-sync-server)**
+> Audio analysis service featuring a hybrid Deno-Python architecture for extracting rhythm and melody information from audio files.
+
+### 📚 Learning Repositories
+
+**[Python_practise](https://github.com/lst97/Python_practise)** | **[CPP-Language_practise](https://github.com/lst97/CPP-Language_practise)** | **[Java_practise](https://github.com/lst97/Java_practise)**
+> Language-specific practice repositories and learning materials.
+
+---
+
+## 🧰 Languages & Tools
+
+Based on my actual projects and contributions:
+
+### Primary Languages
+
 <div>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/></a>
+</div>
+
+### Frontend Development
+
+<div>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
-</div>
-
-<h2>Backend Development & Runtimes</h2>
-<div>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
 </div>
 
-<h2>Databases</h2>
+### Backend & Systems
+
 <div>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a>
   <a href="https://redis.io" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a>
 </div>
 
-<h2>Mobile Development</h2>
+### Mobile & Low-Level
+
 <div>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="60" height="60"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a>
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
 </div>
 
-<h2>Cloud & Infrastructure</h2>
+### DevOps & Tools
+
 <div>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
-</div>
-
-<h2>Tools & Collaboration</h2>
-<div>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a>
-</div>
-
-<h2>Emerging & Specialized</h2>
-<div>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/></a>
 </div>
 
 ---
@@ -99,78 +141,75 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.20%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 Working on 100 repositories (26 original, 74 forks) 
- > 
-> 🏆 1,362 Total Stars Across All Repositories
- > 
+> 📦 404.6 kB Used in GitHub's Storage
+>
+> 🏆 308 Contributions in the Year 2026
+>
 > 💼 Opted to Hire
- > 
-> 📜 100 Total Repositories (82 Public, 18 Private) 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 82 Public Repositories
+>
+> 🔑 16 Private Repositories
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-🌆 Daytime                1431 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-🌃 Evening                2367 commits        ███████████░░░░░░░░░░░░░░   44.54 % 
-🌙 Night                  1415 commits        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌞 Morning                101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+🌆 Daytime                1431 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 %
+🌃 Evening                2367 commits        ███████████░░░░░░░░░░░░░░   44.54 %
+🌙 Night                  1415 commits        ███████░░░░░░░░░░░░░░░░░░   26.63 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  860 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Wednesday                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 787 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Friday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   948 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Monday                   777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Tuesday                  860 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+Wednesday                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Thursday                 787 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Friday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Sunday                   948 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Australia/Melbourne
 
-💬 Programming Languages: 
-TypeScript               14 hrs 4 mins       ████████████████░░░░░░░░░   65.49 % 
-YAML                     3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+💬 Programming Languages:
+TypeScript               14 hrs 4 mins       ████████████████░░░░░░░░░   65.49 %
+YAML                     3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 %
+JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 
-🔥 Editors: 
-Antigravity              21 hrs 29 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+Antigravity              21 hrs 29 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-smartplay-hk-oss         21 hrs 5 mins       █████████████████████████   98.13 % 
-smarkplay-hk-oss-automati24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+🐱‍💻 Projects:
+smartplay-hk-oss         21 hrs 5 mins       █████████████████████████   98.13 %
+smarkplay-hk-oss-automati24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 
-💻 Operating System: 
-Mac                      21 hrs 29 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      21 hrs 29 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               40 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               40 repos            ██████████░░░░░░░░░░░░░░░   41.67 %
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
-
 
  Last Updated on 24/01/2026 19:17:58 UTC
 <!--END_SECTION:waka-->
@@ -194,4 +233,47 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 ---
 
-</p>
+## 🔥 Current Focus
+
+### 🎯 What I'm Working On
+
+- **TanStack Start** - Exploring modern full-stack React framework with SSR
+- **Real-time Applications** - Building systems with live data updates and automated crawling
+- **Developer Tooling** - Creating utilities to enhance development workflows
+- **Open Source** - Contributing to the community with practical tools and libraries
+
+### 🎯 Focus Areas
+
+- Full-stack TypeScript development
+- Open source tooling for developers
+- Real-time web applications
+- Cantonese language processing tools
+- Australian community services integration
+
+### 🎓 Learning Journey
+
+- Expanding expertise in **TypeScript** ecosystem
+- Deepening knowledge of **system architecture** and **database design**
+- Exploring new frameworks and development tools
+- Experimenting with **AI-powered development** workflows
+
+---
+
+## 🤝 Collaborations & Interests
+
+I'm interested in collaborating on:
+
+- 🚀 **Modern web applications** using React/TypeScript
+- 🛠️ **Developer tools** and productivity enhancers
+- 🌏 **Community-focused projects** (Hong Kong 🇭🇰 & Australia 🇦🇺)
+- 🤖 **AI-assisted development** workflows
+
+---
+
+**⚡ Fun fact**: I'm a 🥔 on the hunt for exciting programming adventures! Always learning, always building.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lst97&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
