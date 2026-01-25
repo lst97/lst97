@@ -101,15 +101,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 404.6 kB Used in GitHub's Storage 
+> 📦 Working on 100 repositories (26 original, 74 forks) 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 1,362 Total Stars Across All Repositories
  > 
 > 💼 Opted to Hire
  > 
-> 📜 82 Public Repositories 
+> 📜 100 Total Repositories (82 Public, 18 Private) 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
