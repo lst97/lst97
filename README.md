@@ -180,16 +180,20 @@ Sunday                   1040 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 16 mins        █████████████████████░░░░   85.39 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+best-maker-web           1 hr 14 mins        █████████████████████░░░░   83.25 % 
+best-maker-server        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -209,7 +213,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2026 18:56:45 UTC
+ Last Updated on 16/03/2026 19:00:19 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
