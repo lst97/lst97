@@ -55,6 +55,9 @@
 **[info-hawker-server](https://github.com/lst97/info-hawker-server)**
 > Provide API that gathers 🇦🇺 Australia open-data, unifying across different states and councils.
 
+**[gnaf-autocomplete](https://github.com/lst97/gnaf-autocomplete)**
+> Self-hosted Australian address autocomplete API powered by G-NAF open dataset. 16M addresses, p95 < 50ms, zero external dependencies — just PostgreSQL and Bun.
+
 ### 🎨 Personal Projects
 
 **[lst97-dev](https://github.com/lst97/lst97-dev)**
