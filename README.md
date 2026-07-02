@@ -177,26 +177,26 @@ Sunday                   1433 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               35 hrs 15 mins      █████████████████░░░░░░░░   66.87 % 
-Markdown                 13 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-JSON                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JavaScript               57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-shell script             45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               35 hrs 13 mins      █████████████████░░░░░░░░   67.71 % 
+Markdown                 12 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+shell script             51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-OpenCode                 47 hrs 19 mins      ██████████████████████░░░   89.77 % 
-Zed                      5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+OpenCode                 46 hrs 36 mins      ██████████████████████░░░   89.58 % 
+Zed                      5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-best-maker-web           43 hrs 19 mins      █████████████████████░░░░   82.18 % 
-best-maker-ecommerce     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-best-maker-server        3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-best-maker               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-best-maker-deploy        30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+best-maker-web           41 hrs 53 mins      ████████████████████░░░░░   80.51 % 
+best-maker-ecommerce     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+best-maker-server        4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+best-maker               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+best-maker-deploy        30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      52 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -216,7 +216,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 19:33:12 UTC
+ Last Updated on 02/07/2026 19:24:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
