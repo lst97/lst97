@@ -134,7 +134,7 @@ Based on my actual projects and contributions:
 
 ## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -177,25 +177,25 @@ Sunday                   1460 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               39 hrs 24 mins      ███████████████████░░░░░░   74.79 % 
-Markdown                 7 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               35 hrs 39 mins      ██████████████████░░░░░░░   73.28 % 
+Markdown                 7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-OpenCode                 49 hrs 50 mins      ████████████████████████░   94.57 % 
-Zed                      2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+OpenCode                 45 hrs 22 mins      ███████████████████████░░   93.26 % 
+Zed                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🐱‍💻 Projects: 
-best-maker-web           22 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.21 % 
-best-maker-server        15 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-best-maker-micro         9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-best-maker-ecommerce     4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-best-maker-deploy        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+best-maker-web           21 hrs 14 mins      ███████████░░░░░░░░░░░░░░   43.64 % 
+best-maker-server        12 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+best-maker-micro         9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+best-maker-ecommerce     4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+best-maker-deploy        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      52 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -215,7 +215,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:44:40 UTC
+ Last Updated on 10/07/2026 20:21:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
