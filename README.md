@@ -177,25 +177,25 @@ Sunday                   1460 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               26 hrs 13 mins      ████████████████████░░░░░   78.90 % 
-Markdown                 4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-shell script             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Prisma                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               23 hrs 58 mins      ███████████████████░░░░░░   77.74 % 
+Markdown                 3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Prisma                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-OpenCode                 29 hrs 24 mins      ██████████████████████░░░   88.51 % 
-Zed                      3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+OpenCode                 26 hrs 53 mins      ██████████████████████░░░   87.21 % 
+Zed                      3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 
 🐱‍💻 Projects: 
-best-maker-web           19 hrs 13 mins      ██████████████░░░░░░░░░░░   57.85 % 
-best-maker-server        5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-best-maker-ecommerce     4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-canton-101-server        1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-best-maker-micro         1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+best-maker-web           19 hrs 44 mins      ████████████████░░░░░░░░░   64.01 % 
+best-maker-server        4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+best-maker-ecommerce     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+canton-101-server        2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+canton-101-web           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Mac                      33 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -215,7 +215,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 19:58:46 UTC
+ Last Updated on 13/07/2026 20:23:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
