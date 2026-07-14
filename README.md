@@ -136,7 +136,7 @@ Based on my actual projects and contributions:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -153,21 +153,21 @@ Based on my actual projects and contributions:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                154 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-🌆 Daytime                2246 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌃 Evening                3830 commits        ███████████░░░░░░░░░░░░░░   45.51 % 
-🌙 Night                  2186 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌞 Morning                154 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+🌆 Daytime                2243 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌃 Evening                3818 commits        ███████████░░░░░░░░░░░░░░   45.51 % 
+🌙 Night                  2175 commits        ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1245 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Tuesday                  1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Wednesday                1089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Friday                   1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 963 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Sunday                   1460 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Monday                   1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  1142 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Wednesday                1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Sunday                   1459 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 
 
@@ -177,25 +177,25 @@ Sunday                   1460 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               23 hrs 58 mins      ███████████████████░░░░░░   77.74 % 
-Markdown                 3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Prisma                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               22 hrs 40 mins      ████████████████████░░░░░   79.91 % 
+Markdown                 3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Prisma                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-OpenCode                 26 hrs 53 mins      ██████████████████████░░░   87.21 % 
-Zed                      3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+OpenCode                 24 hrs 29 mins      ██████████████████████░░░   86.31 % 
+Zed                      3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 
 🐱‍💻 Projects: 
-best-maker-web           19 hrs 44 mins      ████████████████░░░░░░░░░   64.01 % 
-best-maker-server        4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-best-maker-ecommerce     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-canton-101-server        2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-canton-101-web           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+best-maker-web           19 hrs 4 mins       █████████████████░░░░░░░░   67.21 % 
+best-maker-server        3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+canton-101-server        2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+best-maker-ecommerce     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+canton-101-web           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Mac                      30 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -215,7 +215,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 20:23:32 UTC
+ Last Updated on 14/07/2026 20:15:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
