@@ -179,53 +179,53 @@ Sunday                   1601 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               11 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.43 % 
-Other                    11 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   38.54 % 
-Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+TypeScript               13 hrs 10 mins      ███████████░░░░░░░░░░░░░░   45.91 % 
+Other                    9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Python                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Zed                      14 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.62 % 
-Pi                       14 hrs 1 min        ████████████░░░░░░░░░░░░░   48.38 % 
-Codex CLI                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-OMP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Zed                      15 hrs 3 mins       █████████████░░░░░░░░░░░░   52.47 % 
+Pi                       11 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   39.45 % 
+Codex CLI                2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-canto101_for-Nelson      17 hrs 39 mins      ███████████████░░░░░░░░░░   60.86 % 
-canton-101-server        7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-canton-101-micro         1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-wenet-speech-yue         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+canto101_for-Nelson      15 hrs 16 mins      █████████████░░░░░░░░░░░░   53.22 % 
+canton-101-server        9 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
+canton-101-micro         1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+wenet-speech-yue         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      29 hrs              █████████████████████████   100.00 % 
+Mac                      28 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 50 mins (58.09%)
+⏱ AI Coding Time: 19 hrs 10 mins (66.77%)
 
-✍️ 37,581 lines written by AI, 1,185 lines written by hand (96.94% AI-written)
+✍️ 34,816 lines written by AI, 544 lines written by hand (98.46% AI-written)
 
-🔤 590,899,611 Input Tokens, 1,334,998 Output Tokens
+🔤 587,845,287 Input Tokens, 1,373,420 Output Tokens
 
-💵 $3440.78 Estimated AI Cost This Week
+💵 $3504.09 Estimated AI Cost This Week
 
-🧠 2687 AI Sessions, 325 AI Prompts
+🧠 2605 AI Sessions, 324 AI Prompts
 
-OMP                      17,112 lines        ████████████████████████░   94.82 % 
-GPT                      935 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+OMP                      18,027 lines        ███████████████████████░░   92.81 % 
+GPT                      949 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Codex-Cli                448 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.94% of written lines came from AI
-📚 Verbose Prompter — average 8,982 characters per prompt
+🤖 AI-Driven — 98.46% of written lines came from AI
+📚 Verbose Prompter — average 13,259 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 6.98% of changed lines were hand-edited
+🚀 High AI Trust — 4.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 22:18:03 UTC
+ Last Updated on 08/09/2026 22:00:17 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
