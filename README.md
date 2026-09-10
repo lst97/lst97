@@ -179,53 +179,53 @@ Sunday                   1601 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               11 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
-Other                    9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
-Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               10 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
+Other                    7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Zed                      13 hrs 56 mins      ██████████████░░░░░░░░░░░   54.60 % 
-Pi                       11 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.95 % 
-Codex CLI                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Zed                      12 hrs 25 mins      ██████████████░░░░░░░░░░░   54.93 % 
+Pi                       10 hrs 10 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-canto101_for-Nelson      15 hrs 4 mins       ███████████████░░░░░░░░░░   59.11 % 
-canton-101-server        7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-canton-101-micro         57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-wenet-speech-yue         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+canto101_for-Nelson      13 hrs              ██████████████░░░░░░░░░░░   57.51 % 
+canton-101-server        6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+canton-101-micro         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+wenet-speech-yue         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      25 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 4 mins (63.0%)
+⏱ AI Coding Time: 14 hrs 13 mins (62.89%)
 
-✍️ 34,041 lines written by AI, 544 lines written by hand (98.43% AI-written)
+✍️ 30,755 lines written by AI, 540 lines written by hand (98.27% AI-written)
 
-🔤 579,405,513 Input Tokens, 1,259,035 Output Tokens
+🔤 538,891,852 Input Tokens, 1,018,215 Output Tokens
 
-💵 $3441.54 Estimated AI Cost This Week
+💵 $3221.47 Estimated AI Cost This Week
 
-🧠 2576 AI Sessions, 288 AI Prompts
+🧠 2225 AI Sessions, 225 AI Prompts
 
-OMP                      17,838 lines        ████████████████████████░   95.85 % 
-GPT                      772 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+OMP                      15,688 lines        ████████████████████████░   96.19 % 
+GPT                      621 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.43% of written lines came from AI
-📚 Verbose Prompter — average 7,963 characters per prompt
+🤖 AI-Driven — 98.27% of written lines came from AI
+📄 Detailed Prompter — average 1,180 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 4.99% of changed lines were hand-edited
+🚀 High AI Trust — 5.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:44:32 UTC
+ Last Updated on 10/09/2026 21:38:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
