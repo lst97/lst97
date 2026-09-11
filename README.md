@@ -134,7 +134,7 @@ Based on my actual projects and contributions:
 
 ## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-779%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-779%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -179,53 +179,53 @@ Sunday                   1601 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-TypeScript               10 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
-Other                    7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
+TypeScript               4 hrs               █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Zed                      12 hrs 25 mins      ██████████████░░░░░░░░░░░   54.93 % 
-Pi                       10 hrs 10 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Pi                       5 hrs 48 mins       █████████████░░░░░░░░░░░░   51.03 % 
+Zed                      5 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-canto101_for-Nelson      13 hrs              ██████████████░░░░░░░░░░░   57.51 % 
-canton-101-server        6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-Unknown Project          1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-canton-101-micro         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-wenet-speech-yue         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+canto101_for-Nelson      4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
+canton-101-server        4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
+Unknown Project          1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+canton-101-micro         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+wenet-speech-yue         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 13 mins (62.89%)
+⏱ AI Coding Time: 6 hrs 41 mins (58.81%)
 
-✍️ 30,755 lines written by AI, 540 lines written by hand (98.27% AI-written)
+✍️ 18,015 lines written by AI, 179 lines written by hand (99.02% AI-written)
 
-🔤 538,891,852 Input Tokens, 1,018,215 Output Tokens
+🔤 277,937,520 Input Tokens, 477,232 Output Tokens
 
-💵 $3221.47 Estimated AI Cost This Week
+💵 $1683.87 Estimated AI Cost This Week
 
-🧠 2225 AI Sessions, 225 AI Prompts
+🧠 1016 AI Sessions, 91 AI Prompts
 
-OMP                      15,688 lines        ████████████████████████░   96.19 % 
-GPT                      621 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+OMP                      7,148 lines         ███████████████████████░░   92.01 % 
+GPT                      621 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.27% of written lines came from AI
-📄 Detailed Prompter — average 1,180 characters per prompt
+🤖 AI-Driven — 99.02% of written lines came from AI
+📝 Concise Prompter — average 427 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 5.41% of changed lines were hand-edited
+🚀 High AI Trust — 3.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:38:28 UTC
+ Last Updated on 11/09/2026 21:47:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
