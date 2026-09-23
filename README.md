@@ -179,54 +179,54 @@ Sunday                   1716 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    20 hrs 46 mins      █████████████░░░░░░░░░░░░   53.28 % 
-TypeScript               14 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.39 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-CSS                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    14 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.95 % 
+TypeScript               12 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.63 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Pi                       23 hrs 31 mins      ███████████████░░░░░░░░░░   60.30 % 
-Zed                      14 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   38.28 % 
-Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Pi                       17 hrs 14 mins      ██████████████░░░░░░░░░░░   56.71 % 
+Zed                      12 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   41.47 % 
+Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-lasterp-web              10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-canton-101-test          10 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-best-maker-server        8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-best-maker-web           1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-LastERP                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+lasterp-web              10 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   35.93 % 
+canton-101-test          10 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   34.62 % 
+best-maker-server        1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+LastERP                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+last-lst97-dev-web       1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Mac                      39 hrs              █████████████████████████   100.00 % 
+Mac                      30 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 32 mins (44.99%)
+⏱ AI Coding Time: 15 hrs 9 mins (49.87%)
 
-✍️ 42,638 lines written by AI, 2,284 lines written by hand (94.92% AI-written)
+✍️ 41,941 lines written by AI, 2,284 lines written by hand (94.84% AI-written)
 
-🔤 1,351,596,709 Input Tokens, 3,265,384 Output Tokens
+🔤 1,314,219,680 Input Tokens, 3,027,082 Output Tokens
 
-💵 $8019.11 Estimated AI Cost This Week
+💵 $7796.68 Estimated AI Cost This Week
 
-🧠 4902 AI Sessions, 872 AI Prompts
+🧠 4639 AI Sessions, 851 AI Prompts
 
-OMP                      7,588 lines         █████████████████████████   98.83 % 
-Codex-Cli                57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-GPT                      33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+OMP                      7,364 lines         █████████████████████████   98.79 % 
+Codex-Cli                57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+GPT                      33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.92% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
+🤖 AI-Driven — 94.84% of written lines came from AI
+📝 Concise Prompter — average 145 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.1% of changed lines were hand-edited
+🚀 High AI Trust — 19.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -246,7 +246,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 22:16:50 UTC
+ Last Updated on 23/09/2026 22:23:45 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
