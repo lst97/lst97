@@ -134,7 +134,7 @@ Based on my actual projects and contributions:
 
 ## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-809%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-809%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -179,53 +179,53 @@ Sunday                   1716 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    15 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.81 % 
-TypeScript               12 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.32 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    15 hrs 4 mins       ██████████████░░░░░░░░░░░   54.89 % 
+TypeScript               10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   37.19 % 
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Pi                       20 hrs 59 mins      █████████████████░░░░░░░░   66.89 % 
-Zed                      9 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Pi                       20 hrs 2 mins       ██████████████████░░░░░░░   72.96 % 
+Zed                      7 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-canton-101-test          10 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.53 % 
-lasterp-web              10 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.94 % 
-last-lst97-dev-web       5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-canton-101-server        2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-LastERP                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+canton-101-test          9 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+lasterp-web              7 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+last-lst97-dev-web       5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+canton-101-server        2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+LastERP                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 💻 Operating System: 
-Mac                      31 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 12 mins (45.29%)
+⏱ AI Coding Time: 10 hrs 58 mins (39.93%)
 
-✍️ 41,899 lines written by AI, 2,901 lines written by hand (93.52% AI-written)
+✍️ 24,371 lines written by AI, 2,334 lines written by hand (91.26% AI-written)
 
-🔤 1,184,716,653 Input Tokens, 2,577,005 Output Tokens
+🔤 621,988,389 Input Tokens, 1,575,883 Output Tokens
 
-💵 $7041.26 Estimated AI Cost This Week
+💵 $3687.01 Estimated AI Cost This Week
 
-🧠 4010 AI Sessions, 802 AI Prompts
+🧠 2226 AI Sessions, 567 AI Prompts
 
-OMP                      6,654 lines         █████████████████████████   98.68 % 
-Codex-Cli                57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-GPT                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      3,011 lines         ████████████████████████░   97.13 % 
+Codex-Cli                57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+GPT                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.52% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
+🤖 AI-Driven — 91.26% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.58% of changed lines were hand-edited
+🚀 High AI Trust — 22.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -245,7 +245,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 22:27:46 UTC
+ Last Updated on 25/09/2026 22:28:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
