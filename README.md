@@ -134,17 +134,17 @@ Based on my actual projects and contributions:
 
 ## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-810%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-813%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 411.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,930 Contributions in the Year 2026
+> 🏆 2,946 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -156,20 +156,20 @@ Based on my actual projects and contributions:
 
 ```text
 🌞 Morning                152 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-🌆 Daytime                2847 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌃 Evening                5111 commits        ████████████░░░░░░░░░░░░░   47.23 % 
-🌙 Night                  2711 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                2847 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌃 Evening                5147 commits        ████████████░░░░░░░░░░░░░   47.38 % 
+🌙 Night                  2717 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1595 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Tuesday                  1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Wednesday                1431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Thursday                 1606 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Friday                   1571 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Saturday                 1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Sunday                   1917 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Monday                   1595 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                1467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 1612 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   1571 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Sunday                   1917 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 ```
 
 
@@ -179,23 +179,23 @@ Sunday                   1917 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    9 hrs 48 mins       ████████████████░░░░░░░░░   64.56 % 
-TypeScript               4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    15 hrs 6 mins       ████████████████░░░░░░░░░   62.13 % 
+TypeScript               7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Pi                       15 hrs 12 mins      █████████████████████████   100.00 % 
+Pi                       24 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-last-lst97-dev-web       12 hrs 2 mins       ████████████████████░░░░░   79.20 % 
-canton-101-server        2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-canton-101-micro         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-canton-101-deploy        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+last-lst97-dev-web       21 hrs 9 mins       ██████████████████████░░░   87.00 % 
+canton-101-server        2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+canton-101-micro         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+canton-101-deploy        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      15 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -221,7 +221,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 23:10:00 UTC
+ Last Updated on 30/09/2026 23:07:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
