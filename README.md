@@ -229,14 +229,14 @@ Rust                     2 repos             ░░░░░░░░░░░�
 </div>
 
 <br/> <div align="center">
-  <a href="#"> <img height="200" align="center" src="https://github-stats.lst97.dev/api?username=lst97" alt="Nelson's GitHub Stats"/>
+  <a href="#"> <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=lst97" alt="Nelson's GitHub Stats"/>
   </a>
-  &nbsp;&nbsp;&nbsp; <a href="#"> <img height="200" align="center" src="https://github-stats.lst97.dev/api/top-langs?username=lst97&layout=compact&langs_count=10&card_width=320" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp; <a href="#"> <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lst97&layout=compact&langs_count=10&card_width=320" alt="Top Languages"/>
   </a>
 </div>
 
 <br/> <div align="center">
-  <a href="#"> <img height="370" align="center" src="https://github-stats.lst97.dev/api/wakatime?username=lst97&layout=compact&card_width=660" alt="WakaTime Coding Activity"/>
+  <a href="#"> <img height="370" align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=lst97&layout=compact&card_width=660" alt="WakaTime Coding Activity"/>
   </a>
 </div>
 
