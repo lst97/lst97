@@ -179,24 +179,24 @@ Sunday                   1832 commits        █████░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    9 hrs 26 mins       ███████████████████░░░░░░   74.65 % 
-TypeScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    14 hrs 26 mins      ███████████████████░░░░░░   75.37 % 
+TypeScript               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Pi                       12 hrs 38 mins      █████████████████████████   100.00 % 
+Pi                       19 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload-tanstack-start-te6 hrs 36 mins       █████████████░░░░░░░░░░░░   52.25 % 
-lasterp-web              3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-last-lst97-dev-web       1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-last-comments-widgets    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-lasterp-server           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+payload-tanstack-start-te6 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+last-comments            5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+lasterp-web              3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+last-comments-widgets    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+last-lst97-dev-web       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      12 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -222,7 +222,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 22:26:38 UTC
+ Last Updated on 16/10/2026 22:15:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
