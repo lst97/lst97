@@ -138,13 +138,13 @@ Based on my actual projects and contributions:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 412.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,080 Contributions in the Year 2026
+> 🏆 3,110 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,21 +155,21 @@ Based on my actual projects and contributions:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                152 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-🌆 Daytime                2902 commits        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-🌃 Evening                5234 commits        ████████████░░░░░░░░░░░░░   47.30 % 
-🌙 Night                  2778 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌞 Morning                130 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+🌆 Daytime                2358 commits        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌃 Evening                4691 commits        ████████████░░░░░░░░░░░░░   48.32 % 
+🌙 Night                  2530 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Tuesday                  1466 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                1463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Thursday                 1613 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   1565 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 1374 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Monday                   1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  1376 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                1243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 1473 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Friday                   1123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 1218 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Sunday                   1885 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 ```
 
 
@@ -179,24 +179,24 @@ Sunday                   1952 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    16 hrs 45 mins      ███████████████████░░░░░░   77.32 % 
-TypeScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    22 hrs 31 mins      ████████████████████░░░░░   79.97 % 
+TypeScript               4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Pi                       21 hrs 40 mins      █████████████████████████   100.00 % 
+Pi                       28 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-last-comments            9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
-payload-tanstack-start-te6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
-lasterp-web              3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-last-comments-widgets    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-lasterp-server           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+last-comments            13 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.48 % 
+last-comments-widgets    6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+payload-tanstack-start-te5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+lasterp-web              3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+last-notifications       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      21 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -208,11 +208,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               55 repos            ████████████░░░░░░░░░░░░░   47.01 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               56 repos            ████████████░░░░░░░░░░░░░   47.46 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -222,7 +222,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 21:34:00 UTC
+ Last Updated on 18/10/2026 21:44:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
