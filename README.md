@@ -1,138 +1,63 @@
-<h1 align="center">Hi there, I'm Nelson 👋</h1>
-<h3 align="center">Full Stack Developer | Building Open Source Tools & Modern Web Applications</h3>
+<h1 align="center">Nelson Lai</h1>
 
 <p align="center">
-  <a href="https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828">
-    <img height="25" src="https://wakatime.com/badge/user/018d821c-9190-497d-be4c-868bdc034828.svg" alt="WakaTime Stats"/>
-  </a>
-  <a href="https://support.apple.com/en-us/111883"> <img height="25" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
-  </a>
-  <a href="https://chatgpt.com/"> <img height="25" src="https://img.shields.io/badge/OpenCode-black?style=for-the-badge" alt="OpenCode"/>
-  </a>
-  <a href="https://status.lst97.dev/"> <img height="25" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat" alt="Availability"/>
-  </a>
-  <a href="https://vercel.com/"> <img height="25" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
+  <strong>Full-stack developer</strong> · Melbourne, Australia
+  <br/>
+  Building modern web applications and open-source tools, end to end.
 </p>
 
----
+<p align="center">
+  <a href="https://www.lst97.dev"><img src="https://img.shields.io/badge/Website-lst97.dev-111827?style=flat-square" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/lst97"><img src="https://img.shields.io/badge/LinkedIn-lst97-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:laisiotou1997@gmail.com"><img src="https://img.shields.io/badge/Email-laisiotou1997%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://status.lst97.dev"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstatus.lst97.dev%2Fshield-badges%2Favailability.json&style=flat-square" alt="Service status"/></a>
+</p>
 
-## 🚀 About Me
+## About
 
-- 🔭 I'm a **Full Stack Developer** based in Melbourne, Australia 🇦🇺🇭🇰
-- 🌱 Currently focusing on **TanStack Start, React, and TypeScript** for building modern full-stack applications
-- 👯 Open source enthusiast building tools for the developer community
-- 🤔 Ask me about: **Full-stack development, System architecture, or my programming journey**
-- 📫 Reach me: **<laisiotou1997@gmail.com>** | **[lst97.dev](https://www.lst97.dev)**
-- 💼 Open to interesting collaborations and **open-source projects**
+I'm a full-stack developer based in Melbourne, Australia, originally from Hong Kong. I build products end to end — interface, API, database and deployment — and publish the tools I use myself as open source.
 
----
+My working stack is TypeScript, React and TanStack Start on the front end, with back-end work in C# and PostgreSQL. I graduated with a Bachelor of Computer Science from Deakin University in 2023, and I'm most interested in system architecture, developer tooling and pragmatic AI-assisted workflows. Larger projects live under the [lst97-oss](https://github.com/lst97-oss) organisation.
 
-## 🌟 Featured Projects
+## Selected work
 
-### 🛠️ Developer Tools
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[LAST//OS](https://www.lst97.dev)** | The desktop-styled site behind lst97.dev: Payload CMS, a retrieval-augmented assistant over my GitHub and WakaTime data, and a structured contact workflow. | TypeScript, Bun, TanStack Start, React 19 |
+| **[last-comments](https://last-comments.lst97.dev)** | Self-hosted comment system for any page: moderation, site-scoped API keys, a plugin pipeline, and drop-in widgets for React, Vue, Angular and plain HTML. | TypeScript, Payload, TanStack Start |
+| **[Canto101](https://www.lst97.dev/projects/canton-101)** | Cantonese learning platform on a curated lexical corpus: dictionary lookup, word-level karaoke timing, talk lessons and a graded practice loop. | Deno, Hono, Drizzle, PostgreSQL |
+| **[G-NAF Address Autocomplete](https://gnaf.lst97.dev)** | Self-hosted Australian address search over about 16 million G-NAF addresses, under 50 ms p95 on PostgreSQL indexes alone. | TypeScript, Bun, Elysia |
+| **[Best Maker](https://www.bestmaker.com.au)** | Quote-to-cash platform for a custom fabrication and joinery business: split payments, bank reconciliation and a commerce back office. | Next.js, Payload, TanStack Query, Tailwind CSS |
+| **[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)** | Collection of specialized AI subagents for Claude Code covering testing, code review, documentation and deployment. | Claude Code |
 
-**[claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents)**
-> Collection of specialized AI subagents for Claude Code, empowering full-stack development workflows. Features automated testing, code review, documentation generation, and deployment automation.
+Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-hk-oss) (Hong Kong public facility availability), [CantoCap](https://github.com/lst97/CantoCap) (Cantonese subtitle generation), [bin-time-crawler](https://github.com/lst97/bin-time-crawler) (Australian bin collection schedules), [info-hawker-server](https://github.com/lst97/info-hawker-server) (Australian open-data API) and [toonconv](https://github.com/lst97/toonconv) (TOON converter in Rust).
 
-**[github-readme-stats](https://github.com/lst97/github-readme-stats)** (fork)
-> Dynamically generated stats for GitHub readmes with custom deployment.
+## Tech stack
 
-### 🏸 Community Projects
+- **Languages** — TypeScript, Python, Go, Rust, C#, Java, Kotlin, C/C++
+- **Front end** — React 19, Next.js, TanStack Start, Vue, Angular, Tailwind CSS
+- **Back end and data** — Bun, Deno, Node.js, Hono, Elysia, PostgreSQL, Drizzle ORM, Payload CMS, .NET
+- **Delivery** — Docker, Linux, GitHub Actions, Vercel
 
-**[smartplay-hk-oss](https://github.com/lst97/smartplay-hk-oss)**
-> 更快、更簡潔的開源替代方案，用於查詢香港康文署設施可用性。Real-time LCSD facility availability tracking with automated crawling and multi-language support.
+## Currently
 
-**[CantoCap](https://github.com/lst97/CantoCap)**
-> Tool for generating accurate Cantonese subtitles from audio/video files using OpenAI Whisper with LLM enhancements.
+- Building [last-comments](https://www.lst97.dev/projects/last-comments) as a self-hosted alternative to hosted comment platforms.
+- Working in TanStack Start, React 19 and Bun-first tooling.
+- Writing about engineering with AI at [lst97.dev/blog](https://www.lst97.dev/blog).
 
-**[CantoLyr](https://github.com/lst97/CantoLyr)**
-> Cantonese lyrics processing and conversion utilities.
+## GitHub activity
 
-**[bin-time-crawler](https://github.com/lst97/bin-time-crawler)**
-> Bin collection schedule crawler for almost all states and councils in Australia 🇦🇺.
+<p align="center">
+  <a href="https://github.com/lst97"><img height="165" src="https://github-stats-extended.vercel.app/api?username=lst97" alt="GitHub stats"/></a>
+  <a href="https://github.com/lst97"><img height="165" src="https://streak-stats.demolab.com?user=lst97" alt="Contribution streak"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/lst97"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=lst97&layout=compact&langs_count=10&card_width=400" alt="Most used languages"/></a>
+</p>
 
-**[info-hawker-server](https://github.com/lst97/info-hawker-server)**
-> Provide API that gathers 🇦🇺 Australia open-data, unifying across different states and councils.
+<details>
+<summary><strong>WakaTime coding activity</strong> — refreshed daily</summary>
 
-**[gnaf-autocomplete](https://github.com/lst97/gnaf-autocomplete)**
-> Self-hosted Australian address autocomplete API powered by G-NAF open dataset. 16M addresses, p95 < 50ms, zero external dependencies — just PostgreSQL and Bun.
-
-### 🎨 Personal Projects
-
-**[lst97-dev](https://github.com/lst97/lst97-dev)**
-> My personal website and portfolio built with modern web technologies.
-
-**[PixelCast](https://github.com/lst97/PixelCast)**
-> A modern web-based screen sharing application built with Next.js and SRS.
-
-**[typo-sync-server](https://github.com/lst97/typo-sync-server)**
-> Audio analysis service featuring a hybrid Deno-Python architecture for extracting rhythm and melody information from audio files.
-
-### 📚 Learning Repositories
-
-**[Python_practise](https://github.com/lst97/Python_practise)** | **[CPP-Language_practise](https://github.com/lst97/CPP-Language_practise)** | **[Java_practise](https://github.com/lst97/Java_practise)**
-> Language-specific practice repositories and learning materials.
-
----
-
-## 🧰 Languages & Tools
-
-Based on my actual projects and contributions:
-
-### Primary Languages
-
-<div>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/></a>
-</div>
-
-### Frontend Development
-
-<div>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>
-</div>
-
-### Backend & Systems
-
-<div>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/></a>
-</div>
-
-### Mobile & Low-Level
-
-<div>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="60" height="60"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a>
-  <a href="https://isocpp.org" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>
-</div>
-
-### DevOps & Tools
-
-<div>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 16px; margin-bottom: 16px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/></a>
-</div>
-
----
-
-## 📊 My GitHub Stats
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-826%20hrs%2046%20mins-blue?style=flat)
 
@@ -187,16 +112,16 @@ JSON                     51 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 Pi                       36 hrs 25 mins      ████████████████████░░░░░   78.54 % 
-Claude Code              5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Zed                      4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Claude Code              5 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Zed                      4 hrs 15 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
 tmp                      31 hrs 16 mins      █████████████████░░░░░░░░   67.43 % 
-last-notifications       2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-last-lst97-dev-web       2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-last-payload-tanstack-sta2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-last-comments            2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+last-notifications       2 hrs 46 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+last-lst97-dev-web       2 hrs 39 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+last-payload-tanstack-sta2 hrs 37 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+last-comments            2 hrs 27 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
 Mac                      46 hrs 23 mins      █████████████████████████   100.00 % 
@@ -248,66 +173,13 @@ Rust                     2 repos             ░░░░░░░░░░░�
  Last Updated on 31/10/2026 22:33:19 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <a href="#"> <img height="300" align="center" src="https://streak-stats.demolab.com?user=lst97" alt="GitHub Streak Stats"/>
-  </a>
-</div>
+</details>
 
-<br/> <div align="center">
-  <a href="#"> <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=lst97" alt="Nelson's GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="#"> <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=lst97&layout=compact&langs_count=10&card_width=320" alt="Top Languages"/>
-  </a>
-</div>
+## Contact
 
-<br/> <div align="center">
-  <a href="#"> <img height="370" align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=lst97&layout=compact&card_width=660" alt="WakaTime Coding Activity"/>
-  </a>
-</div>
+- Website — [lst97.dev](https://www.lst97.dev)
+- LinkedIn — [linkedin.com/in/lst97](https://www.linkedin.com/in/lst97)
+- Email — [laisiotou1997@gmail.com](mailto:laisiotou1997@gmail.com)
+- WakaTime — [wakatime.com/@lst97](https://wakatime.com/@018d821c-9190-497d-be4c-868bdc034828)
 
----
-
-## 🔥 Current Focus
-
-### 🎯 What I'm Working On
-
-- **TanStack Start** - Exploring modern full-stack React framework with SSR
-- **Real-time Applications** - Building systems with live data updates and automated crawling
-- **Developer Tooling** - Creating utilities to enhance development workflows
-- **Open Source** - Contributing to the community with practical tools and libraries
-
-### 🎯 Focus Areas
-
-- Full-stack TypeScript development
-- Open source tooling for developers
-- Real-time web applications
-- Cantonese language processing tools
-- Australian community services integration
-
-### 🎓 Learning Journey
-
-- Expanding expertise in **TypeScript** ecosystem
-- Deepening knowledge of **system architecture** and **database design**
-- Exploring new frameworks and development tools
-- Experimenting with **AI-powered development** workflows
-
----
-
-## 🤝 Collaborations & Interests
-
-I'm interested in collaborating on:
-
-- 🚀 **Modern web applications** using React/TypeScript
-- 🛠️ **Developer tools** and productivity enhancers
-- 🌏 **Community-focused projects** (Hong Kong 🇭🇰 & Australia 🇦🇺)
-- 🤖 **AI-assisted development** workflows
-
----
-
-**⚡ Fun fact**: I'm a 🥔 on the hunt for exciting programming adventures! Always learning, always building.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lst97&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+<sub>Open to collaborations and open-source work.</sub>
