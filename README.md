@@ -61,7 +61,7 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-826%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -104,24 +104,24 @@ Sunday                   2069 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    17 hrs 43 mins      █████████████████████░░░░   83.38 % 
-Rust                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Image (png)              53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    22 hrs 36 mins      █████████████████████░░░░   85.01 % 
+Rust                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Image (png)              1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Pi                       21 hrs 15 mins      █████████████████████████   100.00 % 
+Pi                       26 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    17 hrs 49 mins      █████████████████████░░░░   83.87 % 
-cabinet-studio           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-last-comments            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-last-notifications-widget30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-last-tanstack-start-templ16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+cabinet-studio-design    23 hrs 9 mins       ██████████████████████░░░   87.11 % 
+cabinet-studio           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+last-comments            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+last-notifications-widget30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+last-tanstack-start-templ16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      21 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 23:58:49 UTC
+ Last Updated on 14/11/2026 00:00:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
