@@ -67,7 +67,7 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 
 **🐱 My GitHub Data** 
 
-> 📦 412.5 kB Used in GitHub's Storage 
+> 📦 412.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3,694 Contributions in the Year 2026
  > 
@@ -104,24 +104,24 @@ Sunday                   2069 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    27 hrs 46 mins      █████████████████████░░░░   85.25 % 
-Rust                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Image (png)              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    28 hrs 44 mins      █████████████████████░░░░   85.54 % 
+Rust                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Image (png)              1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Pi                       32 hrs 35 mins      █████████████████████████   100.00 % 
+Pi                       33 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    30 hrs 17 mins      ███████████████████████░░   92.96 % 
-last-comments            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-last-notifications-widget30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-last-tanstack-start-templ16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-last-comments-widgets    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+cabinet-studio-design    31 hrs 18 mins      ███████████████████████░░   93.17 % 
+last-comments            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+last-notifications-widget30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+last-tanstack-start-templ16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+last-comments-widgets    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      32 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:51:59 UTC
+ Last Updated on 15/11/2026 23:16:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
