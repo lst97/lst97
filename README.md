@@ -63,13 +63,13 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 412.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,737 Contributions in the Year 2026
+> 🏆 3,749 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -80,21 +80,21 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                180 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-🌆 Daytime                3246 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-🌃 Evening                5721 commits        ████████████░░░░░░░░░░░░░   46.59 % 
-🌙 Night                  3132 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌞 Morning                180 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+🌆 Daytime                3251 commits        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌃 Evening                5721 commits        ████████████░░░░░░░░░░░░░   46.55 % 
+🌙 Night                  3139 commits        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  1774 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Wednesday                1586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Thursday                 1734 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   1747 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   2069 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Monday                   1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Tuesday                  1774 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Wednesday                1586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 1739 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   1747 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Saturday                 1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sunday                   2076 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 ```
 
 
@@ -104,24 +104,24 @@ Sunday                   2069 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    41 hrs 45 mins      ██████████████████████░░░   88.00 % 
-Rust                     2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Image (png)              1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    45 hrs 37 mins      ██████████████████████░░░   89.07 % 
+Rust                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Image (png)              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Pi                       47 hrs 27 mins      █████████████████████████   100.00 % 
+Pi                       51 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    47 hrs 24 mins      █████████████████████████   99.90 % 
+cabinet-studio-design    51 hrs 10 mins      █████████████████████████   99.91 % 
 tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 cabinet-studio-licensing 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 stats-ref                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      47 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,10 +134,10 @@ No AI Coding Activity Tracked This Week
 
 ```text
 TypeScript               55 repos            ███████████░░░░░░░░░░░░░░   44.72 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -147,7 +147,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 00:20:29 UTC
+ Last Updated on 21/11/2026 23:42:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
