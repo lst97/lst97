@@ -104,24 +104,24 @@ Sunday                   2076 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    45 hrs 37 mins      ██████████████████████░░░   89.07 % 
-Rust                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Image (png)              2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    51 hrs 2 mins       ██████████████████████░░░   88.94 % 
+Rust                     2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Image (png)              2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Pi                       51 hrs 13 mins      █████████████████████████   100.00 % 
+Pi                       57 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    51 hrs 10 mins      █████████████████████████   99.91 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+cabinet-studio-design    57 hrs 20 mins      █████████████████████████   99.92 % 
+tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 cabinet-studio-licensing 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 stats-ref                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      51 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      57 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 23:42:50 UTC
+ Last Updated on 22/11/2026 23:57:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
