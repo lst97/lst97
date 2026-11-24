@@ -104,24 +104,22 @@ Sunday                   2076 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    51 hrs 2 mins       ██████████████████████░░░   88.94 % 
-Rust                     2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Image (png)              2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    60 hrs 33 mins      ███████████████████████░░   90.11 % 
+Image (png)              2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Rust                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Pi                       57 hrs 23 mins      █████████████████████████   100.00 % 
+Pi                       67 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    57 hrs 20 mins      █████████████████████████   99.92 % 
+cabinet-studio-design    67 hrs 9 mins       █████████████████████████   99.94 % 
 tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-cabinet-studio-licensing 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-stats-ref                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      57 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      67 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +145,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 23:57:00 UTC
+ Last Updated on 24/11/2026 04:14:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
