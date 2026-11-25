@@ -69,7 +69,7 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 
 > 📦 412.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,749 Contributions in the Year 2026
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -104,22 +104,24 @@ Sunday                   2076 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    60 hrs 33 mins      ███████████████████████░░   90.11 % 
-Image (png)              2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Rust                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    68 hrs 52 mins      ███████████████████████░░   90.28 % 
+Image (png)              3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Rust                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Pi                       67 hrs 11 mins      █████████████████████████   100.00 % 
+Pi                       76 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    67 hrs 9 mins       █████████████████████████   99.94 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+cabinet-studio-design    75 hrs 57 mins      █████████████████████████   99.56 % 
+canton-101-server        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+canton-101-micro         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      67 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      76 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,7 +147,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 04:14:01 UTC
+ Last Updated on 25/11/2026 02:54:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
