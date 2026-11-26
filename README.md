@@ -61,7 +61,7 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-826%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -69,7 +69,7 @@ Smaller open-source work: [smartplay-hk-oss](https://github.com/lst97/smartplay-
 
 > 📦 412.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 3,749 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -104,24 +104,24 @@ Sunday                   2076 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    68 hrs 52 mins      ███████████████████████░░   90.28 % 
-Image (png)              3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Rust                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    72 hrs 41 mins      ███████████████████████░░   91.29 % 
+Image (png)              3 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Rust                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Pi                       76 hrs 17 mins      █████████████████████████   100.00 % 
+Pi                       79 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    75 hrs 57 mins      █████████████████████████   99.56 % 
-canton-101-server        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+cabinet-studio-design    78 hrs 48 mins      █████████████████████████   98.97 % 
+CabMasterProV12.1        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+canton-101-server        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 canton-101-micro         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+canton-101-web           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      76 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      79 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:54:27 UTC
+ Last Updated on 26/11/2026 02:06:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
