@@ -104,24 +104,24 @@ Sunday                   2077 commits        ████░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    73 hrs 44 mins      ███████████████████████░░   91.95 % 
-Image (png)              2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Rust                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Markdown                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    82 hrs 59 mins      ███████████████████████░░   92.04 % 
+Image (png)              2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Rust                     2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Pi                       80 hrs 11 mins      █████████████████████████   100.00 % 
+Pi                       90 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cabinet-studio-design    78 hrs 40 mins      █████████████████████████   98.11 % 
-CabMasterProV12.1        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-cabinet-studio-web       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-canton-101-server        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-tmp                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+cabinet-studio-design    88 hrs 18 mins      ████████████████████████░   97.94 % 
+tmp                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+CabMasterProV12.1        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+cabinet-studio-web       27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+canton-101-server        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      80 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      90 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +147,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lst97/lst97/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 02:03:14 UTC
+ Last Updated on 28/11/2026 01:48:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
